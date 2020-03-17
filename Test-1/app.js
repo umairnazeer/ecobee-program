@@ -1,17 +1,5 @@
 const testResults = require('../files/test_results.json');
 
-//console.log(testResults)
-
-
-/*1) For each test suite:
-x Test suite name
-x Print out the total number of tests that passed and their details
-x Print out the total number of tests that failed and their details
-x Print out the total number of test that are blocked
-x Print out the total number of test that took more than 10 seconds to execute*/
-
-//console.log('Test Suite Name: ', testResults.test_suies;
-
 const getTestResultSummary = () => {
   testResults.test_suites.forEach(testSuite => {
     console.log(`Suite Name: ${testSuite.suite_name}`)
