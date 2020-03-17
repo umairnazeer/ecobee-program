@@ -6,7 +6,7 @@ To get this project up and running please follow these steps:
 ## Method 1: Directly on Online IDE
 - Visit https://repl.it/@umairnazeer/ecobee-test-program
 - Click on 'Run' button to run the program
-- Check output on the right side window
+- Check output on the right hand side window. 
 
 ## Method 2: Run program locally
 
