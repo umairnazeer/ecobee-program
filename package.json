@@ -1,0 +1,19 @@
+{
+  "name": "ecobee-program",
+  "version": "1.0.0",
+  "description": "## Getting Started To get this project up and running please follow these steps:",
+  "main": "app.js",
+  "scripts": {
+    "app": "node ./Test-1/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairnazeer/ecobee-program.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairnazeer/ecobee-program/issues"
+  },
+  "homepage": "https://github.com/umairnazeer/ecobee-program#readme"
+}
